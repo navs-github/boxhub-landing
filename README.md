@@ -1,3 +1,3 @@
-# Portfolio V3 - Dark Edition
+# Boxhub Landing Replica - React + TailwindCSS
 
-A little more polish than before.
+
