@@ -44,7 +44,7 @@ function Landing() {
             <TopNav></TopNav>
             {/* Intro Section 👋 */}
             <main ref={heroRef} className="mt-20 xl:mt-32 flex flex-col items-start">
-                <BoxHeading inView={inViewHero}>ABHINAV VERMA</BoxHeading>
+                <BoxHeading inView={inViewHero}>AABHINAV VERMA</BoxHeading>
                 <p className="mt-8 xl:mt-12 leading-[180%] opacity-0 animate-fadein">A front-end developer and product designer. I spend my time ideating, designing, and coding polished digital interactions.</p>
                 <ArrowLinkSet>
                     <li className="">
